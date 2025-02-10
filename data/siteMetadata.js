@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'VamoSs',
   author: 'VamoSs',
   headerTitle: 'VamoSs',
-  description: 'Welcome to my blog. I write about mobile development, programming, and life.',
+  description: 'Where I share insights on mobile development, programming, and building impactful mobile projects.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
